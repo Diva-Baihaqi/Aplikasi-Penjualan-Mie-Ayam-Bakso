@@ -43,7 +43,7 @@ APLIKASI PENJUALAN MIE AYAM BAKSO/
 ## 🚀 Cara Instalasi & Menjalankan
 1. **Clone repository ini:**
    ```bash
-   git clone https://github.com/USERNAME/NAMA-REPO.git
+   git clone https://github.com/Diva-Baihaqi/Aplikasi-Penjualan-Mie-Ayam-Bakso
    cd "APLIKASI PENJUALAN MIE AYAM BAKSO"
    ```
 2. **Install dependensi:**
