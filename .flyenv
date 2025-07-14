@@ -1,0 +1,2 @@
+[Console]::OutputEncoding = [System.Text.Encoding]::UTF8
+$env:PATH = "C:\Users\divab\AppData\Local\Programs\Python\Python313;" + $env:PATH #FlyEnv-ID-qbN5VRQ29DjgOaRQBiJfbxUlzXgZxJ9n
