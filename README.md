@@ -63,8 +63,8 @@ APLIKASI PENJUALAN MIE AYAM BAKSO/
 
 ## 📲 Kontak & Kontribusi
 - WhatsApp: 0821-2518-4884
-- Email: [Masukkan email Anda]
-- Instagram: [Masukkan Instagram Anda]
+- Email: [diva.babah@gmail.com]
+- Instagram: [www.instagram.com/diva_babah]
 
 Kontribusi, saran, dan pull request sangat terbuka!
 
@@ -80,4 +80,4 @@ Aplikasi ini dibuat untuk pembelajaran dan pengembangan UMKM. Silakan gunakan, m
 
 ---
 
-**Selamat menggunakan aplikasi kasir ini untuk memajukan usaha Anda!** 
+**Created by: Diva-Baihaqi** 
